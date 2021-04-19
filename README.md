@@ -1,4 +1,4 @@
 # packet-analysis-in-python
 To do:
 
-Try ga
+Try gathering all packets
