@@ -1,6 +1,6 @@
 # packet-analysis-in-python
 
-What can you
+You can get the quituple 
 
 To do:
 
