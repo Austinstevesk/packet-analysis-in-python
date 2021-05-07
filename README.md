@@ -1,6 +1,6 @@
 # packet-analysis-in-python
 
-You can get the quituple details for a packet ##run 
+You can get the quituple details for a packet ##run snslyzer.py
 
 To do:
 
