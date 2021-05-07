@@ -1,6 +1,7 @@
 # packet-analysis-in-python
 
-What 
+What can 
+
 To do:
 
 Try gathering all packets and block some once the values surpasses
