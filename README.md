@@ -2,7 +2,7 @@
 
 You can get the quituple details for a packet ##run snslyzer.
 
-##packet_analyzer.py
+##packet_analyzer.py can capture packets through a specific interface
 
 To do:
 
