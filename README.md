@@ -1,6 +1,6 @@
 # packet-analysis-in-python
 
-You can get the quituple details for a 
+You can get the quituple details for a packet
 
 To do:
 
